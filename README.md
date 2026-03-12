@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=JaYs30405&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/JaYs30405?label=Followers&style=social" />
 </p>
 
 ---
 
 ## About Me
 
-- Student exploring technology and new ideas  
-- Interested in learning, experimenting, and building projects  
-- Using this profile to document progress and share work
+* Student exploring technology and new ideas
+* Interested in learning, experimenting, and building projects
+* Using this profile to document progress and share work
 
 ---
 
@@ -32,15 +32,15 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaYs30405&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaYs30405&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaYs30405&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,15 +48,15 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaYs30405&theme=tokyo-night" />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|--------|-------------|
+| Project   | Description       |
+| --------- | ----------------- |
 | Project 1 | Short description |
 | Project 2 | Short description |
 | Project 3 | Short description |
@@ -66,7 +66,7 @@
 ## Connect
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/JaYs30405">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 </p>
