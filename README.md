@@ -1,47 +1,62 @@
-# Jay
+<h1 align="center">Hi 👋 I'm Jay</h1>
 
-Student • Exploring Technology • Learning by Building
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+Exploring+Technology;Curious+Mind+Building+Ideas;Learning+Something+New+Every+Day;Welcome+to+My+GitHub+Profile" />
+</p>
 
----
-
-### About
-
-I am a student who enjoys understanding how technology works and improving problem-solving skills through practical experimentation.
-This profile is a place where I document things I learn, projects I experiment with, and ideas I explore while studying.
-
----
-
-### Focus Areas
-
-🔹 **Programming Practice**
-Learning core programming concepts and strengthening logical thinking through coding exercises.
-
-🔹 **Small Projects**
-Building simple tools and experiments to understand how software and systems behave.
-
-🔹 **Technology Exploration**
-Trying different tools, environments, and technologies to gain broader technical exposure.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaYs30405&label=Profile+Views&color=blue&style=flat" />
+</p>
 
 ---
 
-### Technical Areas
+## 🧑‍💻 Who Am I
+
+I am **Jay**, a student who enjoys exploring technology and understanding how systems work behind the scenes.
+This GitHub profile is where I experiment, build small projects, and document things I learn.
+
+I treat learning as a process:
+
+**observe → experiment → build → improve**
+
+---
+
+## ⚡ Current Focus
+
+🧠 Improving logical thinking through programming
+⚙️ Exploring how software and systems interact
+🧪 Experimenting with small ideas and turning them into projects
+📚 Continuously learning new tools and technologies
+
+---
+
+## 🛠️ Tech Environment
 
 **Languages**
-C++ • Python • Java • JavaScript
 
-**Tools**
-VS Code • GitHub
+`C++` • `Python` • `Java` • `JavaScript`
 
 **Technologies**
-HTML • CSS • Linux basics
+
+`HTML` • `CSS`
+
+**Tools**
+
+`VS Code` • `GitHub` • `Command Line`
+
+**Environment**
+
+🐧 Linux
 
 ---
 
-### Profile
+## ✨ Small Philosophy
 
-GitHub:
-https://github.com/JaYs30405
+> Curiosity drives learning.
+> Building things turns curiosity into knowledge.
 
 ---
 
-Repositories in this profile mainly contain learning experiments, practice programs, and projects created during exploration.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:5B42F3&section=footer"/>
+</p>
