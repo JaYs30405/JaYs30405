@@ -22,10 +22,8 @@
 ## Tech / Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=keil,cpp,c,linux,vscode" />
 </p>
-
-*(Edit the icons to match what you actually use.)*
 
 ---
 
@@ -42,24 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaYs30405&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaYs30405&theme=tokyo-night" />
-</p>
-
----
-
-## Featured Projects
-
-| Project   | Description       |
-| --------- | ----------------- |
-| Project 1 | Short description |
-| Project 2 | Short description |
-| Project 3 | Short description |
 
 ---
 
