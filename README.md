@@ -19,23 +19,8 @@
 
 ---
 
-## Tech / Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=keil,cpp,c,linux,vscode" />
-</p>
-
----
 
 ## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaYs30405&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaYs30405&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaYs30405&layout=compact&theme=tokyonight" />
