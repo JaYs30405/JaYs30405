@@ -1,43 +1,47 @@
-<h1 align="center">Hi, I'm Jay</h1>
+# Jay
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Student;Always+Learning+New+Things;Building+Ideas+Step+by+Step" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaYs30405&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/JaYs30405?label=Followers&style=social" />
-</p>
+Student • Exploring Technology • Learning by Building
 
 ---
 
-## About Me
+### About
 
-* Student exploring technology and new ideas
-* Interested in learning, experimenting, and building projects
-* Using this profile to document progress and share work
-
----
-
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaYs30405&layout=compact&theme=tokyonight" />
-</p>
+I am a student who enjoys understanding how technology works and improving problem-solving skills through practical experimentation.
+This profile is a place where I document things I learn, projects I experiment with, and ideas I explore while studying.
 
 ---
 
-## Connect
+### Focus Areas
 
-<p>
-<a href="https://github.com/JaYs30405">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
+🔹 **Programming Practice**
+Learning core programming concepts and strengthening logical thinking through coding exercises.
+
+🔹 **Small Projects**
+Building simple tools and experiments to understand how software and systems behave.
+
+🔹 **Technology Exploration**
+Trying different tools, environments, and technologies to gain broader technical exposure.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
-</p>
+### Technical Areas
+
+**Languages**
+C++ • Python • Java • JavaScript
+
+**Tools**
+VS Code • GitHub
+
+**Technologies**
+HTML • CSS • Linux basics
+
+---
+
+### Profile
+
+GitHub:
+https://github.com/JaYs30405
+
+---
+
+Repositories in this profile mainly contain learning experiments, practice programs, and projects created during exploration.
