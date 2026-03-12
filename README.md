@@ -1,62 +1,39 @@
-<h1 align="center">Hi 👋 I'm Jay</h1>
+## Hi 👋, I'm Jay
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+Exploring+Technology;Curious+Mind+Building+Ideas;Learning+Something+New+Every+Day;Welcome+to+My+GitHub+Profile" />
-</p>
+🔧 **Embedded Systems** • 🧠 **ARM Microcontrollers** • 🐧 **Linux Systems & Kernel Enthusiast**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaYs30405&label=Profile+Views&color=blue&style=flat" />
-</p>
+I spend most of my time working with **ARM microcontrollers**, writing firmware and interacting directly with hardware.  
+Alongside that, I’ve been getting deeper into **Linux systems**, especially networking and packet filtering.
 
----
-
-## 🧑‍💻 Who Am I
-
-I am **Jay**, a student who enjoys exploring technology and understanding how systems work behind the scenes.
-This GitHub profile is where I experiment, build small projects, and document things I learn.
-
-I treat learning as a process:
-
-**observe → experiment → build → improve**
+Most of my work is in **C/C++**, switching between **embedded development on microcontrollers** and exploring how things operate inside **Linux**.
 
 ---
 
-## ⚡ Current Focus
+### ⚙️ Areas I Work In
 
-🧠 Improving logical thinking through programming
-⚙️ Exploring how software and systems interact
-🧪 Experimenting with small ideas and turning them into projects
-📚 Continuously learning new tools and technologies
-
----
-
-## 🛠️ Tech Environment
-
-**Languages**
-
-`C++` • `Python` • `Java` • `JavaScript`
-
-**Technologies**
-
-`HTML` • `CSS`
-
-**Tools**
-
-`VS Code` • `GitHub` • `Command Line`
-
-**Environment**
-
-🐧 Linux
+🔌 **Embedded Firmware** — STM32 / ARM Cortex-M  
+🐧 **Linux Systems** — exploring kernel subsystems  
+⚡ **Hardware ↔ Software Interaction**
 
 ---
 
-## ✨ Small Philosophy
+### 🛠️ Tech Stack
 
-> Curiosity drives learning.
-> Building things turns curiosity into knowledge.
+**💻 Languages**  
+C • Bash • Embedded C  
+
+**🔧 Tools**  
+GCC • Keil uVision • STM32CubeIDE • STM32CubeMX • SEGGER • Saleae Logic Analyzer • VS Code  
+
+**🧩 Hardware**  
+STM32F4 • STM32F1 • STM32L1 • ARM Cortex-M  
+
+**🖥️ Systems**  
+Linux • FreeRTOS  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:5B42F3&section=footer"/>
-</p>
+### 📫 Contact
+
+📧 **Email:** jay.sanchania30@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/jay-sanchania/
