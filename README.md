@@ -3,9 +3,9 @@
 🔧 **Embedded Systems** • 🧠 **ARM Microcontrollers** • 🐧 **Linux Systems & Kernel Enthusiast**
 
 I spend most of my time working with **ARM microcontrollers**, writing firmware and interacting directly with hardware.  
-Alongside that, I’ve been getting deeper into **Linux systems**, especially networking and packet filtering.
+Alongside that, I’ve been getting deeper into **Linux systems**.
 
-Most of my work is in **C/C++**, switching between **embedded development on microcontrollers** and exploring how things operate inside **Linux**.
+Most of my work is in **C**, switching between **embedded development on microcontrollers** and exploring how things operate inside **Linux**.
 
 ---
 
