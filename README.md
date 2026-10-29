@@ -1,6 +1,6 @@
-## Hi 👋, I'm Jay
+## Hi , I'm Jay
 
-🔧 **Embedded Systems** • 🧠 **ARM Microcontrollers** • 🐧 **Linux Systems & Kernel Enthusiast**
+ **Embedded Systems** •  **ARM Microcontrollers** •  **Linux Systems & Kernel Enthusiast**
 
 I spend most of my time working with **ARM microcontrollers**, writing firmware and interacting directly with hardware.  
 Alongside that, I’ve been getting deeper into **Linux systems**.
@@ -9,31 +9,31 @@ Most of my work is in **C**, switching between **embedded development on microco
 
 ---
 
-### ⚙️ Areas I Work In
+###  Areas I Work In
 
-🔌 **Embedded Firmware** — STM32 / ARM Cortex-M  
-🐧 **Linux Systems** — exploring kernel subsystems  
-⚡ **Hardware ↔ Software Interaction**
+ **Embedded Firmware** — STM32 / ARM Cortex-M  
+ **Linux Systems** — exploring kernel subsystems  
+ **Hardware ↔ Software Interaction**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-**💻 Languages**  
+** Languages**  
 C • Bash • Embedded C  
 
-**🔧 Tools**  
+** Tools**  
 GCC • Keil uVision • STM32CubeIDE • STM32CubeMX • SEGGER • Saleae Logic Analyzer • VS Code  
 
-**🧩 Hardware**  
+** Hardware**  
 STM32F4 • STM32F1 • STM32L1 • ARM Cortex-M  
 
-**🖥️ Systems**  
+** Systems**  
 Linux • FreeRTOS  
 
 ---
 
-### 📫 Contact
+###  Contact
 
-📧 **Email:** jay.sanchania30@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/jay-sanchania/
+ **Email:** jay.sanchania30@gmail.com  
+ **LinkedIn:** https://www.linkedin.com/in/jay-sanchania/
