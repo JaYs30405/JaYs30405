@@ -19,16 +19,16 @@ Most of my work is in **C**, switching between **embedded development on microco
 
 ###  Tech Stack
 
-** Languages**  
+**Languages**  
 C • Bash • Embedded C  
 
-** Tools**  
+**Tools**  
 GCC • Keil uVision • STM32CubeIDE • STM32CubeMX • SEGGER • Saleae Logic Analyzer • VS Code  
 
-** Hardware**  
+**Hardware**  
 STM32F4 • STM32F1 • STM32L1 • ARM Cortex-M  
 
-** Systems**  
+**Systems**  
 Linux • FreeRTOS  
 
 ---
