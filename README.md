@@ -35,5 +35,5 @@ Linux • FreeRTOS
 
 ###  Contact
 
- **Email:** jay.sanchania30@gmail.com  
+ **Email:** jay.sanchania.personal@gmail.com  
  **LinkedIn:** https://www.linkedin.com/in/jay-sanchania/
