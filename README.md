@@ -1,65 +1,66 @@
 <div align="center">
 
-# Hi, I'm Jay 👋
+# `jay@embedded:~$` 👾
 
-### Embedded Systems • ARM Microcontrollers • Linux Systems
+**Jay Sanchania** · Embedded Systems & Linux
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Writing+firmware+close+to+the+hardware;Exploring+Linux+systems+and+kernel+internals;Turning+coffee+into+working+embedded+code)](https://git.io/typing-svg)
+`C` · `ARM Cortex-M` · `STM32` · `Linux`
 
-[![Profile views](https://komarev.com/ghpvc/?username=JaYs30405&style=flat-square&color=blueviolet)](https://github.com/JaYs30405)
+[![Profile views](https://komarev.com/ghpvc/?username=JaYs30405&style=flat-square&color=00cc99&label=PROFILE+SCANS)](https://github.com/JaYs30405)
 
 </div>
 
 ---
 
-### `$ whoami`
+### `whoami`
 
-I work with **ARM microcontrollers**, write firmware, and enjoy understanding how software interacts with hardware. Lately, I've also been exploring **Linux systems and kernel subsystems**. Most of my work is in **C**.
+Embedded systems enthusiast working close to the hardware: building firmware for **ARM microcontrollers** and exploring **Linux systems and kernel subsystems**. Most of my work is in **C**.
 
 <details>
-<summary>🖥️ Open a tiny terminal session</summary>
+<summary><code>./run_profile --interactive</code></summary>
 
 ```console
-$ jay --focus
-> Embedded firmware     [ STM32 / ARM Cortex-M ]
-> Linux systems         [ learning the internals ]
-> Hardware ↔ software  [ making the two talk ]
+jay@embedded:~$ cat mission.txt
+> Build firmware             [ STM32 / ARM Cortex-M ]
+> Explore systems            [ Linux / kernel internals ]
+> Connect hardware + software[ always in progress ]
+
+jay@embedded:~$ _
 ```
 
 </details>
 
-### 🧰 Things I work with
+### Loadout
 
-| Area | Tools & tech |
+| Class | Equipment |
 | --- | --- |
 | **Languages** | C · Embedded C · Bash |
-| **Tools** | GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae Logic Analyzer · VS Code |
+| **Toolchain** | GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae Logic Analyzer · VS Code |
 | **Hardware** | STM32F4 · STM32F1 · STM32L1 · ARM Cortex-M |
 | **Systems** | Linux · FreeRTOS |
 
 <details>
-<summary>✨ A small embedded-systems easter egg</summary>
+<summary>🎮 Unlock bonus room</summary>
 
-```text
-while (1) {
-    learn_something_new();
-    build_something();
-    debug_until_it_works();
+```c
+while (system_is_running()) {
+    learn();
+    build();
+    debug();  // the real final boss
 }
 ```
 
 </details>
 
-### 📊 GitHub at a glance
+### Stats screen
 
 <div align="center">
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaYs30405&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/JaYs30405)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaYs30405&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JaYs30405)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaYs30405&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/JaYs30405)
 
 </div>
 
-### 📫 Find me
+### Connect
 
 - **Email:** [jay.sanchania.personal@gmail.com](mailto:jay.sanchania.personal@gmail.com)
 - **LinkedIn:** [jay-sanchania](https://www.linkedin.com/in/jay-sanchania/)
@@ -68,6 +69,6 @@ while (1) {
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my repositories!* 🚀
+`Thanks for visiting. Have fun exploring.` ✨
 
 </div>
