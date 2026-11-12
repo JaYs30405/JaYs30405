@@ -1,46 +1,19 @@
-<div align="center">
+## Hi, I'm Jay
 
-# Jay Sanchania
+I work on embedded systems, mostly with C and ARM microcontrollers. I enjoy getting close to the hardware—writing firmware, debugging boards, and figuring out how the software and hardware fit together.
 
-**Embedded Systems Engineer · Linux Systems Enthusiast**
+I'm also learning more about Linux internals and kernel subsystems.
 
-`C` · `ARM Cortex-M` · `STM32` · `Linux`
+### What I use
 
-</div>
+- **Languages:** C, Bash
+- **Microcontrollers:** STM32F1, STM32F4, STM32L1, ARM Cortex-M
+- **Tools:** GCC, Keil uVision, STM32CubeIDE, STM32CubeMX, SEGGER, Saleae Logic Analyzer
+- **Systems:** Linux, FreeRTOS
 
----
-
-### `$ whoami`
-
-I build firmware close to the hardware and explore how systems work beneath the surface. My focus is **ARM microcontrollers**, **Linux systems**, and the boundary between hardware and software. Most of my work is in **C**.
-
-### Focus
-
-- **Embedded firmware** — STM32 and ARM Cortex-M
-- **Linux systems** — exploring kernel subsystems
-- **Hardware/software** — low-level development and debugging
-
-### Technologies
-
-| Category | Tools and platforms |
-| --- | --- |
-| **Languages** | C · Embedded C · Bash |
-| **Development** | GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae Logic Analyzer · VS Code |
-| **Hardware** | STM32F4 · STM32F1 · STM32L1 · ARM Cortex-M |
-| **Systems** | Linux · FreeRTOS |
-
-<details>
-<summary><code>jay@linux:~$ cat /etc/working-principles</code></summary>
-
-```text
-Understand the system.
-Keep it close to the metal.
-Measure twice. Debug until it makes sense.
-```
-
-</details>
+Most of my projects are experiments and things I'm learning along the way. Feel free to have a look around.
 
 ### Contact
 
-- **Email:** [jay.sanchania.personal@gmail.com](mailto:jay.sanchania.personal@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jay-sanchania](https://www.linkedin.com/in/jay-sanchania/)
+- [Email](mailto:jay.sanchania.personal@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jay-sanchania/)
