@@ -1,74 +1,46 @@
 <div align="center">
 
-# `jay@embedded:~$` 👾
+# Jay Sanchania
 
-**Jay Sanchania** · Embedded Systems & Linux
+**Embedded Systems Engineer · Linux Systems Enthusiast**
 
 `C` · `ARM Cortex-M` · `STM32` · `Linux`
-
-[![Profile views](https://komarev.com/ghpvc/?username=JaYs30405&style=flat-square&color=00cc99&label=PROFILE+SCANS)](https://github.com/JaYs30405)
 
 </div>
 
 ---
 
-### `whoami`
+### `$ whoami`
 
-Embedded systems enthusiast working close to the hardware: building firmware for **ARM microcontrollers** and exploring **Linux systems and kernel subsystems**. Most of my work is in **C**.
+I build firmware close to the hardware and explore how systems work beneath the surface. My focus is **ARM microcontrollers**, **Linux systems**, and the boundary between hardware and software. Most of my work is in **C**.
 
-<details>
-<summary><code>./run_profile --interactive</code></summary>
+### Focus
 
-```console
-jay@embedded:~$ cat mission.txt
-> Build firmware             [ STM32 / ARM Cortex-M ]
-> Explore systems            [ Linux / kernel internals ]
-> Connect hardware + software[ always in progress ]
+- **Embedded firmware** — STM32 and ARM Cortex-M
+- **Linux systems** — exploring kernel subsystems
+- **Hardware/software** — low-level development and debugging
 
-jay@embedded:~$ _
-```
+### Technologies
 
-</details>
-
-### Loadout
-
-| Class | Equipment |
+| Category | Tools and platforms |
 | --- | --- |
 | **Languages** | C · Embedded C · Bash |
-| **Toolchain** | GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae Logic Analyzer · VS Code |
+| **Development** | GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae Logic Analyzer · VS Code |
 | **Hardware** | STM32F4 · STM32F1 · STM32L1 · ARM Cortex-M |
 | **Systems** | Linux · FreeRTOS |
 
 <details>
-<summary>🎮 Unlock bonus room</summary>
+<summary><code>jay@linux:~$ cat /etc/working-principles</code></summary>
 
-```c
-while (system_is_running()) {
-    learn();
-    build();
-    debug();  // the real final boss
-}
+```text
+Understand the system.
+Keep it close to the metal.
+Measure twice. Debug until it makes sense.
 ```
 
 </details>
 
-### Stats screen
-
-<div align="center">
-
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaYs30405&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/JaYs30405)
-
-</div>
-
-### Connect
+### Contact
 
 - **Email:** [jay.sanchania.personal@gmail.com](mailto:jay.sanchania.personal@gmail.com)
-- **LinkedIn:** [jay-sanchania](https://www.linkedin.com/in/jay-sanchania/)
-
----
-
-<div align="center">
-
-`Thanks for visiting. Have fun exploring.` ✨
-
-</div>
+- **LinkedIn:** [linkedin.com/in/jay-sanchania](https://www.linkedin.com/in/jay-sanchania/)
