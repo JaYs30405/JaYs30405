@@ -1,28 +1,39 @@
-<div align="center">
+## Hi , I'm Jay
 
-# Jay Sanchania
+ **Embedded Systems** •  **ARM Microcontrollers** •  **Linux Systems & Kernel Enthusiast**
 
-**Embedded systems · C · ARM · Linux**
+I spend most of my time working with **ARM microcontrollers**, writing firmware and interacting directly with hardware.  
+Alongside that, I’ve been getting deeper into **Linux systems**.
 
-</div>
+Most of my work is in **C**, switching between **embedded development on microcontrollers** and exploring how things operate inside **Linux**.
 
 ---
 
-```text
-jay@workbench:~$ ./about
-```
+###  Areas I Work In
 
-I write firmware for ARM microcontrollers and like working close to the hardware—bringing up boards, debugging bugs, and figuring out what's happening under the hood. I'm also spending time learning Linux internals and kernel subsystems.
+ **Embedded Firmware** — STM32 / ARM Cortex-M  
+ **Linux Systems** — exploring kernel subsystems  
+ **Hardware ↔ Software Interaction**
 
-### On my desk
+---
 
-- **Code:** C, Bash
-- **Boards:** STM32F1 · STM32F4 · STM32L1 · ARM Cortex-M
-- **Tools:** GCC · Keil uVision · STM32CubeIDE · STM32CubeMX · SEGGER · Saleae
-- **Systems:** Linux · FreeRTOS
+###  Tech Stack
 
-I use this space for projects, experiments, and notes from things I'm learning. Feel free to browse.
+**Languages**  
+C • Bash • Embedded C  
 
-### Elsewhere
+**Tools**  
+GCC • Keil uVision • STM32CubeIDE • STM32CubeMX • SEGGER • Saleae Logic Analyzer • VS Code  
 
-[Email](mailto:jay.sanchania.personal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jay-sanchania/)
+**Hardware**  
+STM32F4 • STM32F1 • STM32L1 • ARM Cortex-M  
+
+**Systems**  
+Linux • FreeRTOS
+
+---
+
+###  Contact
+
+ **Email:** jay.sanchania.personal@gmail.com  
+ **LinkedIn:** https://www.linkedin.com/in/jay-sanchania/
